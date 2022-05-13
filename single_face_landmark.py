@@ -40,6 +40,7 @@ try:
 except Exception as e:
     print(e)
 
+
 path = "datasets/video3.mp4"
 
 draw_landmark(path)
